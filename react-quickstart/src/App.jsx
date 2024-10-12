@@ -3,37 +3,30 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
-//Section 8: Updating the screen a.k.a state management
+//Section 9: Using hooks -> Sharing Data Between Components
 
-function MyButton() {
-  const [count, setCount] = useState(10);
-  const [task, setTask] = useState(0);
-  const [comments, setComments] = useState(0);
-  const [state, setState] = useState("Off");
+function MyButton({ count, onClick }) {
+  return (
+    <button onClick={onClick}>
+      Clicked {count} times
+    </button>
+  );
+}
+
+export default function App() {
+  const [count, setCount] = useState(0);
   function handleClick() {
-    state == "On" ? setState("Off") : setState("On");
+    setCount(count + 1);
   }
   return (
     <>
-      <button onClick={handleClick} >
-        {/* Clicked {count} times */}
-        {state}
-      </button>
+      <h1>Counters that update together</h1>
+      <MyButton count={count} onClick={handleClick} />
+      <MyButton count={count} onClick={handleClick} />
+      <MyButton count={count} onClick={handleClick} />
     </>
   );
 }
 
-
-export default function App() {
-  return (
-    <>
-      <h3>Click the switches below</h3>
-      <MyButton />
-      <h6>shows separately rendered instance of the MyButton component to show how each button “remembers” its own count state and doesn’t affect
-        other buttons</h6>
-      <MyButton />
-    </>
-  )
-}
 
 
