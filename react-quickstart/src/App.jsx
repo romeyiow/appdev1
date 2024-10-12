@@ -2,13 +2,19 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import './MyButton'
-import MyButton from './MyButton'
-//Section 7:  Responding to events
+
+//Section 1:  Creating and nesting components
+
+function MyButton() {
+  return (
+    <button>I'm a button</button>
+  );
+}
 export default function App() {
   return (
     <>
-      {/* <MyButton/> */}
+      <h1>Welcome to my app</h1>
+      <MyButton />
     </>
   )
 }
