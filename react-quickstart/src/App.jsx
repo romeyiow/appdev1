@@ -3,11 +3,12 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
-//Section 2: Writing markup with JSX}
+//Section 3: Adding styles
 
 export default function App() {
   return (
     <>
+      <img className="avatar" src='https://i.imgur.com/yXOvdOSs.jpg'/>
     </>
   );
 }
