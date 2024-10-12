@@ -6,7 +6,7 @@ const user = {
     imageSize: 90,
 };
 
-export default function Profile() {
+export default function AdminPanel() {
     return (
         <>
             <img
