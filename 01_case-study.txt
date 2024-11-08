@@ -1,6 +1,6 @@
 #Case Study: Managing a Challenging Cross-Department Collaboration
 
-##Problem Statement: The R&D department, facing tight deadlines, required support from the software development team to meet 
+##Problem Statement: The Research and Development (R&D) department, facing tight deadlines, required support from the software development team to meet 
                         their target dates. Despite a significant learning curve and an already tight schedule, the development 
                         team stepped in and the collaboration showed promising progress.However, as the project neared 
                         completion, a personal family crisis involving a key team member disrupted 
