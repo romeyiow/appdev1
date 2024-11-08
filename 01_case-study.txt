@@ -1,0 +1,51 @@
+#Case Study: Managing a Challenging Cross-Department Collaboration
+
+##Problem Statement: The R&D department, facing tight deadlines, required support from the software development team to meet 
+                        their target dates. Despite a significant learning curve and an already tight schedule, the development 
+                        team stepped in and the collaboration showed promising progress.However, as the project neared 
+                        completion, a personal family crisis involving a key team member disrupted 
+                        progress, further jeopardizing the ability to meet the deadline.
+
+##Analysis and Recommendations
+
+To not complicate things, if I were the project manager, the first thing i would do is to notify the client 
+    and negotiate about a possible adjustment of deadline. I believe that unforeseen circumstances may 
+    allow some room for considerations on the side of the client. 
+    
+    Nevertheless, whether or not the application for deadline adjustment is approved, a list of actions has 
+    to follow in order to cover the tasks that were left undone due to the absence of that developer.
+
+    Specifically, I would call for an emergency meeting to discuss and list all the tasks left by 
+    the developer, the affected decencies and all other consequences. Then, I would consider redistribution of workload. 
+    Knowing that we’re approaching the completion of the project, meaning there’s a chance that some hands will be 
+    free soon or that some team members are not as loaded as before.I will also, consider personally covering the tasks if 
+    I could since part of the expectations from a project manager 
+    is that he or she has at least a fundamental understanding of programming.
+
+    If none of that will work, then I would look into the possibility employing part-timers a.k.a. outsourcing.
+    This will reduces burden on the existing team while keeping the project on track but 
+    the reason why this is the last option is because this would involved additional cost, requiring 
+    further negotiation with the project sponsors, which will ultimately delay the development even further.
+
+Now, had I been the concerned developer here, I would try my best to get back my composure as to mitigate 
+    the effect of my personal life to my professional life in particular to the completion of the project at hand.
+    I would consult with the project manager and the team the tasks that I may not be able to deliver on time.
+    
+On that note, I think what the developer could have done in anticipation of such unforeseen event is ensuring that 
+    his or her works are properly documented. So that in case that he or she really need to leave momentarily for whatever reason,
+    the next developer can easily pickup where he or she left.
+
+Similarly, the manager could have better prepare for this unexpected problem by first ensuring workloads are distributed 
+    strategically and time estimates or deadlines are realistic. Furthermore, the project manager should check on the team
+    members progress and well-being regularly to identify areas where he or she could provide support. Finally, it would have been 
+    ideal if the manager created a contingency plan a.k.a "Plan B" to prevent disruptions
+    and keeps projects on course when unexpected situations occur.
+
+
+## Conclusions and Lessons Learned
+    My main takeaways in this study is the importance of crafting contingency plan and supporting team well-being.
+    Incorporating contingency planning for team availability is really important because it helps prevent disruptions
+    and keeps projects on course when unexpected situations occur. At the same time, focusing on team well-being by 
+    balancing workloads, offering support, and providing flexibility during challenging times 
+    fosters a healthier and more effective work environment.
+   
