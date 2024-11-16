@@ -4,8 +4,8 @@ const StudentContext = createContext()
 
 const StudentProvider = ({ children }) => {
     const student = {
-        name: 'Elmer Alvarado',
-        age: 29,
+        name: 'Jerome Imperial',
+        age: 24,
         major: 'Bachelor of Science in Information System'
     };
 

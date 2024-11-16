@@ -8,10 +8,14 @@ import TextInput from './TextInput.jsx'
 import FetchPosts from './FetchPosts.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
+    <Counter />
+    <hr />
+    <ToggleButton />
+    <hr />
+    <TextInput />
+    <hr />
+    <FetchPosts />
+    <hr />
     <App />
-    {/* <Counter /> */}
-    {/* <ToggleButton /> */}
-    {/* <TextInput /> */}
-    {/* <FetchPosts /> */}
   </StrictMode>,
 )
